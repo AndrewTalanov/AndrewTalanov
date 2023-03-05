@@ -4,7 +4,7 @@
 
 <div id="links" align="center">
   <a href="https://t.me/Andrew_Talanov">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Ссылка на мой тг"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" target="_blank" alt="Ссылка на мой тг"/>
   </a>
 </div>
 
