@@ -25,3 +25,8 @@
 
 ### :fire: Немного статистики :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrewtalanov&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  
+  
+  ### :fire: Немного статистики :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrewtalanov&theme=dark&background=000000)](https://git.io/streak-stats)
