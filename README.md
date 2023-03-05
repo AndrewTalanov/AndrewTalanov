@@ -16,4 +16,24 @@
 ### :man_technologist: Обо мне :
 - :tropical_drink: Junior Frontend разработчик
 - :man_student: Студент вуза, 3+ курс, кафедра Математики и информаткии
-- :wrench: Изучаю React, NextJS, немного NodeJS
+- :wrench: Изучаю React, NextJS, немного NodeJS (Для лучшего понимания как работать с бэкендом)
+
+### :hammer_and_wrench: Языки и Инструменты :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original-wordmark.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  
+</div
