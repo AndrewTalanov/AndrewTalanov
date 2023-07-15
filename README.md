@@ -15,7 +15,7 @@
 
 ### :man_technologist: Обо мне :
 - :tropical_drink: Junior Frontend разработчик
-- :man_student: Студент вуза, 3+ курс, кафедра Математики и информаткии
+- :man_student: Студент вуза, 4 курс, кафедра Математики и информаткии
 - :wrench: Изучаю React, немного NodeJS
 
 ---
