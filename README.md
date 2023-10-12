@@ -14,9 +14,9 @@
 </div>
 
 ### :man_technologist: Обо мне :
-- :tropical_drink: Frontend разработчик
-- :man_student: Студент вуза, 4 курс, кафедра Математики и информаткии
-- :wrench: Изучаю React, немного NodeJS
+- :tropical_drink: Frontend, backend разработчик
+- :man_student: Студент, 4 курс, Бизнес-информатика
+- :wrench: Изучаю React, PHP, Node.js, Python и много чего еще
 
 ---
 
