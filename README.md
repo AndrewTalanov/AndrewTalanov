@@ -13,11 +13,6 @@
   </h1>
 </div>
 
-### :man_technologist: Обо мне :
-- :tropical_drink: Frontend, backend разработчик
-- :man_student: Студент, 4 курс, Бизнес-информатика
-- :wrench: Изучаю React, PHP, Node.js, Python и много чего еще
-
 ---
 
 ### :hammer_and_wrench: Языки и Инструменты :
